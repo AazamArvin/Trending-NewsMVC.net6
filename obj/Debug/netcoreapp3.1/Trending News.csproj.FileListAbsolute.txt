@@ -1,0 +1,38 @@
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.exe
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.deps.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.runtimeconfig.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.Views.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\netcoreapp3.1\Trending News.Views.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\staticwebassets\Trending News.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\staticwebassets\Trending News.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\scopedcss\bundle\Trending News.styles.css
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.Views.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\netcoreapp3.1\Trending News.csproj.CopyComplete

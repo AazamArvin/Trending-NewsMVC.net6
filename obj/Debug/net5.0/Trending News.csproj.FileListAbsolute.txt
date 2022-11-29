@@ -1,0 +1,82 @@
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\angular.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\package-lock.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\package.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\proxy.config.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\tsconfig.app.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\tsconfig.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\tsconfig.spec.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.exe
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.deps.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.runtimeconfig.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\ref\Trending News.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.Views.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Trending News.Views.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\staticwebassets\Trending News.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\staticwebassets\Trending News.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\scopedcss\bundle\Trending News.styles.css
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.Views.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\ref\Trending News.dll
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.pdb
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Final Main Project\Trending News\Trending News\obj\Debug\net5.0\Trending News.csproj.AssemblyReference.cache
+D:\azam\MYFinalTrending--master1\MYFinalTrending--master\obj\Debug\net5.0\Trending News.dll
+D:\azam\MYFinalTrending--master1\MYFinalTrending--master\obj\Debug\net5.0\Trending News.pdb
